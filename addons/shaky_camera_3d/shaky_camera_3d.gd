@@ -1,6 +1,6 @@
 @tool
 extends Camera3D
-class_name ShakeyCamera3D
+class_name ShakyCamera3D
 
 ## Camera that shakes.
 ##
